@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.MohamadIbnu.quistebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BahanTulisanActivity"
+            android:label="@string/title_activity_bahan_tulisan" >
+        </activity>
+        <activity
+            android:name=".BintangKecilActivity"
+            android:label="@string/title_activity_bintang_kecil" >
+        </activity>
+        <activity
+            android:name=".BiroDagangActivity"
+            android:label="@string/title_activity_biro_dagang" >
+        </activity>
+        <activity
+            android:name=".BlangkoPermohonanActivity"
+            android:label="@string/title_activity_blangko_permohonan" >
+        </activity>
+        <activity
+            android:name=".DarahPanasActivity"
+            android:label="@string/title_activity_darah_panas" >
+        </activity>
+        <activity
+            android:name=".GadisBisuActivity"
+            android:label="@string/title_activity_gadis_bisu" >
+        </activity>
+        <activity
+            android:name=".HampirPirangActivity"
+            android:label="@string/title_activity_hampir_pirang" >
+        </activity>
+        <activity
+            android:name=".HormatiGadisActivity"
+            android:label="@string/title_activity_hormati_gadis" >
+        </activity>
+        <activity
+            android:name=".KakiPerawanActivity"
+            android:label="@string/title_activity_kaki_perawan" >
+        </activity>
+        <activity
+            android:name=".EndActivity"
+            android:label="@string/title_activity_end" >
+        </activity>
+        <activity
+            android:name=".MencelaNasihatActivity"
+            android:label="@string/title_activity_mencela_nasihat" >
+        </activity>
+        <activity
+            android:name=".ObatiKesepianActivity"
+            android:label="@string/title_activity_obati_kesepian" >
+        </activity>
+        <activity
+            android:name=".PejabatTurunActivity"
+            android:label="@string/title_activity_pejabat_turun" >
+        </activity>
+        <activity
+            android:name=".PelayanWarungActivity"
+            android:label="@string/title_activity_pelayan_warung" >
+        </activity>
+        <activity
+            android:name=".PersentaseTiruanActivity"
+            android:label="@string/title_activity_persentase_tiruan" >
+        </activity>
+        <activity
+            android:name=".PinjamBankActivity"
+            android:label="@string/title_activity_pinjam_bank" >
+        </activity>
+        <activity
+            android:name=".ResikoBoikotActivity"
+            android:label="@string/title_activity_resiko_boikot" >
+        </activity>
+        <activity
+            android:name=".SeribuSuratActivity"
+            android:label="@string/title_activity_seribu_surat" >
+        </activity>
+        <activity
+            android:name=".SifatTerpendamActivity"
+            android:label="@string/title_activity_sifat_terpendam" >
+        </activity>
+        <activity
+            android:name=".TularPenyakitActivity"
+            android:label="@string/title_activity_tular_penyakit" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuisTebakGambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bahan_tulisan">Tebak Gambar</string>
+    <string name="title_activity_bintang_kecil">Tebak Gambar</string>
+    <string name="title_activity_biro_dagang">Tebak Gambar</string>
+    <string name="title_activity_blangko_permohonan">Tebak Gambar</string>
+    <string name="title_activity_darah_panas">Tebak Gambar</string>
+    <string name="title_activity_gadis_bisu">Tebak Gambar</string>
+    <string name="title_activity_hampir_pirang">Tebak Gambar</string>
+    <string name="title_activity_hormati_gadis">Tebak Gambar</string>
+    <string name="title_activity_kaki_perawan">Tebak Gambar</string>
+    <string name="title_activity_end">Tebak Gambar</string>
+    <string name="title_activity_mencela_nasihat">Tebak Gambar</string>
+    <string name="title_activity_obati_kesepian">Tebak Gambar</string>
+    <string name="title_activity_pejabat_turun">Tebak Gambar</string>
+    <string name="title_activity_pelayan_warung">Tebak Gambar</string>
+    <string name="title_activity_persentase_tiruan">Tebak Gambar</string>
+    <string name="title_activity_pinjam_bank">Tebak Gambar</string>
+    <string name="title_activity_resiko_boikot">TebakGambar</string>
+    <string name="title_activity_seribu_surat">Tebak Gambar</string>
+    <string name="title_activity_sifat_terpendam">Tebak Gambar</string>
+    <string name="title_activity_tular_penyakit">Tebak Gambar</string>
+
+</resources>
